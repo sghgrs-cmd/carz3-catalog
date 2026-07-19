@@ -1,0 +1,21 @@
+{
+  "name": "carz3-webapp",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build:css": "tailwindcss -i src.css -o styles.css --minify",
+    "build:cards": "node build-cards.js",
+    "build": "npm run build:cards && npm run build:css",
+    "watch:css": "tailwindcss -i src.css -o styles.css --watch",
+    "test:bot": "node test-bot-logic.js"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^8.1.0",
+    "@google/genai": "^1.0.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.19"
+  }
+}

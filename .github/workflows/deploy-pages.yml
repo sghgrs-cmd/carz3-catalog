@@ -1,0 +1,27 @@
+name: Deploy to Public Repo
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Private Repo
+        uses: actions/checkout@v4
+
+      - name: Remove hidden .git folder
+        run: rm -rf .git
+
+      - name: Pushes to another repository
+        uses: cpina/github-action-push-to-another-repository@main
+        env:
+          API_TOKEN_GITHUB: ${{ secrets.PUBLIC_REPO_TOKEN }}
+        with:
+          source-directory: '.'
+          destination-github-username: 'sghgrs-cmd'
+          destination-repository-name: 'carz3-catalog'
+          user-email: github-actions[bot]@users.noreply.github.com
+          target-branch: main
