@@ -125,7 +125,7 @@ function createCarCard(car) {
     : '';
 
   const featureTag = car.features[0]
-    ? `<span class="inline-block rounded-full border border-gold/30 bg-gold/5 px-2.5 py-1 text-xs font-medium text-gold">${car.features[0]}</span>`
+    ? `<span class="inline-block max-w-full truncate rounded-full border border-gold/30 bg-gold/5 px-2.5 py-1 text-xs font-medium text-gold">${car.features[0]}</span>`
     : '';
 
   return `
@@ -177,9 +177,9 @@ function createCarCard(car) {
 
         ${featureTag ? `<div class="mt-3">${featureTag}</div>` : ''}
 
-        <div class="mt-4 flex items-center justify-between">
-          <span class="font-display text-xl sm:text-2xl font-extrabold">${formatCarPrice(car)}</span>
-          <span class="text-gold text-sm font-semibold inline-flex items-center gap-1 group-hover:gap-2 transition-all">Подробнее →</span>
+        <div class="mt-4 flex flex-wrap items-center justify-between gap-x-3 gap-y-1">
+          <span class="font-display text-xl sm:text-2xl font-extrabold whitespace-nowrap">${formatCarPrice(car)}</span>
+          <span class="text-gold text-sm font-semibold inline-flex items-center gap-1 whitespace-nowrap shrink-0 group-hover:gap-2 transition-all">Подробнее →</span>
         </div>
       </div>
     </div>
