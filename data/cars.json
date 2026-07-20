@@ -351,7 +351,7 @@
     ],
     "location": "Китай",
     "status": "Под заказ",
-    "manager": "alexcash2025",
+    "manager": "Michail2004",
     "images": [
       "images/cars/Volkswagen-T-roc-2026/Volkswagen-T-roc-2026-1.jpg",
       "images/cars/Volkswagen-T-roc-2026/Volkswagen-T-roc-2026-2.jpg",
@@ -387,7 +387,7 @@
     ],
     "location": "Китай",
     "status": "Под заказ",
-    "manager": "Michail2004",
+    "manager": "alexcash2025",
     "images": [
       "images/cars/Toyota-Highlander-2026/Toyota-Highlander-2026-1.jpg",
       "images/cars/Toyota-Highlander-2026/Toyota-Highlander-2026-2.jpg",
@@ -423,6 +423,79 @@
       "images/cars/AUDI-A5-2026/AUDI-A5-2026-3.jpg",
       "images/cars/AUDI-A5-2026/AUDI-A5-2026-4.jpg",
       "images/cars/AUDI-A5-2026/AUDI-A5-2026-5.jpg"
+    ]
+  },
+  {
+    "id": "toyota-rav4-2026",
+    "brand": "Toyota",
+    "model": "RAV-4",
+    "year": 2026,
+    "engineVolume": 2.0,
+    "horsePower": 171,
+    "transmission": "Вариатор (CVT)",
+    "drivetrain": "Полный привод",
+    "mileage": 0,
+    "price": 3990000,
+    "features": [
+      "Adventure Plus",
+      "Полный привод 4WD",
+      "Камера 360°",
+      "Климат-контроль",
+      "Кожаный салон",
+      "Светодиодные фары",
+      "Бесключевой доступ",
+      "Адаптивный круиз-контроль"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "alexcash2025",
+    "images": [
+      "images/cars/Toyota-Rav-4/Toyota-Rav-4-1.jpg",
+      "images/cars/Toyota-Rav-4/Toyota-Rav-4-2.jpg",
+      "images/cars/Toyota-Rav-4/Toyota-Rav-4-3.jpg",
+      "images/cars/Toyota-Rav-4/Toyota-Rav-4-4.jpg",
+      "images/cars/Toyota-Rav-4/Toyota-Rav-4-5.jpg",
+      "images/cars/Toyota-Rav-4/Toyota-Rav-4-6.jpg",
+      "images/cars/Toyota-Rav-4/Toyota-Rav-4-7.jpg",
+      "images/cars/Toyota-Rav-4/Toyota-Rav-4-8.jpg"
+    ]
+  },
+  {
+    "id": "toyota-haylender-2026",
+    "brand": "Toyota",
+    "model": "Highlander",
+    "year": 2026,
+    "engineVolume": 2.0,
+    "horsePower": 248,
+    "transmission": "Автомат",
+    "drivetrain": "Полный привод",
+    "mileage": 0,
+    "price": 5320000,
+    "features": [
+      "7 мест · Макс. комплектация",
+      "Полный привод 4WD",
+      "Камера 360°",
+      "Климат-контроль",
+      "Кожаный салон",
+      "Панорамная крыша",
+      "Бесключевой доступ",
+      "Электропривод сидений",
+      "Адаптивный круиз-контроль"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "Michail2004",
+    "images": [
+      "images/cars/Toyota-Haylender-2026/Toyota-Haylender-2026-1.jpg",
+      "images/cars/Toyota-Haylender-2026/Toyota-Haylender-2026-2.jpg",
+      "images/cars/Toyota-Haylender-2026/Toyota-Haylender-2026-3.jpg",
+      "images/cars/Toyota-Haylender-2026/Toyota-Haylender-2026-4.jpg",
+      "images/cars/Toyota-Haylender-2026/Toyota-Haylender-2026-5.jpg",
+      "images/cars/Toyota-Haylender-2026/Toyota-Haylender-2026-6.jpg",
+      "images/cars/Toyota-Haylender-2026/Toyota-Haylender-2026-7.jpg",
+      "images/cars/Toyota-Haylender-2026/Toyota-Haylender-2026-8.jpg",
+      "images/cars/Toyota-Haylender-2026/Toyota-Haylender-2026-9.jpg",
+      "images/cars/Toyota-Haylender-2026/Toyota-Haylender-2026-10.jpg"
     ]
   }
 ]
