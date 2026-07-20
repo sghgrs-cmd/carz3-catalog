@@ -364,5 +364,65 @@
       "images/cars/Volkswagen-T-roc-2026/Volkswagen-T-roc-2026-9.jpg",
       "images/cars/Volkswagen-T-roc-2026/Volkswagen-T-roc-2026-10.jpg"
     ]
+  },
+  {
+    "id": "toyota-highlander-2026",
+    "brand": "Toyota",
+    "model": "Highlander",
+    "year": 2026,
+    "engineVolume": 2.0,
+    "horsePower": 248,
+    "transmission": "Автомат",
+    "drivetrain": "Полный привод",
+    "mileage": 0,
+    "price": 5250000,
+    "features": [
+      "Полный привод · Бензин",
+      "Камера 360°",
+      "Климат-контроль",
+      "Кожаный салон",
+      "Светодиодные фары",
+      "Бесключевой доступ",
+      "Электропривод сидений"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "Michail2004",
+    "images": [
+      "images/cars/Toyota-Highlander-2026/Toyota-Highlander-2026-1.jpg",
+      "images/cars/Toyota-Highlander-2026/Toyota-Highlander-2026-2.jpg",
+      "images/cars/Toyota-Highlander-2026/Toyota-Highlander-2026-3.jpg",
+      "images/cars/Toyota-Highlander-2026/Toyota-Highlander-2026-4.jpg",
+      "images/cars/Toyota-Highlander-2026/Toyota-Highlander-2026-5.jpg",
+      "images/cars/Toyota-Highlander-2026/Toyota-Highlander-2026-6.jpg"
+    ]
+  },
+  {
+    "id": "audi-a5-2026",
+    "brand": "Audi",
+    "model": "A5",
+    "year": 2026,
+    "engineVolume": 2.0,
+    "horsePower": 204,
+    "transmission": "Робот",
+    "drivetrain": "Полный привод",
+    "mileage": 0,
+    "price": 6720000,
+    "features": [
+      "Полный привод · Робот",
+      "Зелёный на чёрном",
+      "Цена под ключ с таможенными сборами и утилем",
+      "Без скрытых платежей"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "Michail2004",
+    "images": [
+      "images/cars/AUDI-A5-2026/AUDI-A5-2026-1.jpg",
+      "images/cars/AUDI-A5-2026/AUDI-A5-2026-2.jpg",
+      "images/cars/AUDI-A5-2026/AUDI-A5-2026-3.jpg",
+      "images/cars/AUDI-A5-2026/AUDI-A5-2026-4.jpg",
+      "images/cars/AUDI-A5-2026/AUDI-A5-2026-5.jpg"
+    ]
   }
 ]
