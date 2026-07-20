@@ -39,7 +39,7 @@
     "mileage": 0,
     "price": 2530000,
     "features": [
-      "Линейка комплектаций Comfort",
+      "4 комплектации",
       "Zihiang — 2 530 000 ₽",
       "Zihiang Pro — 2 750 000 ₽",
       "Zia — 2 990 000 ₽",
@@ -132,8 +132,8 @@
     "mileage": 49000,
     "price": 2950000,
     "features": [
+      "Панорамная крыша · Климат-контроль",
       "Заводской окрас",
-      "Панорамная крыша с люком",
       "Активная система торможения",
       "Передние и задние парктроники",
       "Круиз-контроль",
@@ -205,14 +205,14 @@
     "transmission": "Автомат (CVT)",
     "drivetrain": "Передний привод",
     "mileage": 0,
-    "price": 2250000,
+    "price": 2155000,
     "priceIsFrom": true,
     "features": [
       "3 комплектации",
-      "Deluxe — 2 250 000 ₽: 17\" диски, бесключевой доступ, климат-контроль, кожаный салон, камера заднего вида, панорамная крыша, адаптивный круиз-контроль, датчики парковки",
-      "Luxury — 2 300 000 ₽: двухцветные 17\" диски, светодиодные фары, камера 360°, контроль слепых зон (без адаптивного круиз-контроля и панорамной крыши)",
-      "Premium — 2 450 000 ₽: контроль слепых зон, адаптивный круиз-контроль, рейлинги, панорамная крыша, кожаный руль, двухзонный климат-контроль",
-      "Пакет \"чёрная крыша\" — доплата 50 000 ₽ (доступен для Deluxe и Luxury)"
+      "Comfort — 2 155 000 ₽: 17\" диски, бесключевой доступ, климат-контроль, кожаный салон, камера заднего вида, панорамная крыша, адаптивный круиз-контроль, датчики парковки",
+      "Luxury — 2 275 000 ₽: двухцветные 17\" диски, светодиодные фары, камера 360°, контроль слепых зон (без адаптивного круиз-контроля и панорамной крыши)",
+      "Top — 2 640 000 ₽: контроль слепых зон, адаптивный круиз-контроль, рейлинги, панорамная крыша, кожаный руль, двухзонный климат-контроль",
+      "Пакет \"чёрная крыша\" — доплата 50 000 ₽ (доступен для Comfort и Luxury)"
     ],
     "location": "Китай",
     "status": "Под заказ",
@@ -238,6 +238,7 @@
     "mileage": 0,
     "price": 2230000,
     "features": [
+      "Люк · Кожаный салон",
       "17\" диски",
       "Климат-контроль",
       "Круиз-контроль",
@@ -295,6 +296,73 @@
       "images/cars/geely-coolray-2026/geely-coolray-2026-10.jpg"
       
       
+    ]
+  },
+  {
+    "id": "kia-kx1-2026",
+    "brand": "Kia",
+    "model": "KX1",
+    "year": 2026,
+    "engineVolume": 1.4,
+    "horsePower": 100,
+    "transmission": "Автомат (CVT)",
+    "drivetrain": "Передний привод",
+    "mileage": 0,
+    "price": 1735000,
+    "priceIsFrom": true,
+    "features": [
+      "2 комплектации",
+      "Базовая — 1 735 000 ₽",
+      "Максимальная — 1 885 000 ₽"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "alexcash2025",
+    "images": [
+      "images/cars/Kia-kx1-2026/Kia-kx1-2026-1.jpg",
+      "images/cars/Kia-kx1-2026/Kia-kx1-2026-2.jpg",
+      "images/cars/Kia-kx1-2026/Kia-kx1-2026-3.jpg",
+      "images/cars/Kia-kx1-2026/Kia-kx1-2026-4.jpg",
+      "images/cars/Kia-kx1-2026/Kia-kx1-2026-5.jpg",
+      "images/cars/Kia-kx1-2026/Kia-kx1-2026-6.jpg",
+      "images/cars/Kia-kx1-2026/Kia-kx1-2026-7.jpg",
+      "images/cars/Kia-kx1-2026/Kia-kx1-2026-8.jpg",
+      "images/cars/Kia-kx1-2026/Kia-kx1-2026-9.jpg"
+    ]
+  },
+  {
+    "id": "volkswagen-t-roc-2026",
+    "brand": "Volkswagen",
+    "model": "T-Roc",
+    "year": 2026,
+    "engineVolume": 1.4,
+    "horsePower": 150,
+    "transmission": "Автомат",
+    "drivetrain": "Передний привод",
+    "mileage": 0,
+    "price": 2590000,
+    "features": [
+      "Цена под ключ",
+      "Климат-контроль",
+      "Камера заднего вида",
+      "Светодиодные фары",
+      "Бесключевой доступ",
+      "Кожаный руль"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "alexcash2025",
+    "images": [
+      "images/cars/Volkswagen-T-roc-2026/Volkswagen-T-roc-2026-1.jpg",
+      "images/cars/Volkswagen-T-roc-2026/Volkswagen-T-roc-2026-2.jpg",
+      "images/cars/Volkswagen-T-roc-2026/Volkswagen-T-roc-2026-3.jpg",
+      "images/cars/Volkswagen-T-roc-2026/Volkswagen-T-roc-2026-4.jpg",
+      "images/cars/Volkswagen-T-roc-2026/Volkswagen-T-roc-2026-5.jpg",
+      "images/cars/Volkswagen-T-roc-2026/Volkswagen-T-roc-2026-6.jpg",
+      "images/cars/Volkswagen-T-roc-2026/Volkswagen-T-roc-2026-7.jpg",
+      "images/cars/Volkswagen-T-roc-2026/Volkswagen-T-roc-2026-8.jpg",
+      "images/cars/Volkswagen-T-roc-2026/Volkswagen-T-roc-2026-9.jpg",
+      "images/cars/Volkswagen-T-roc-2026/Volkswagen-T-roc-2026-10.jpg"
     ]
   }
 ]
