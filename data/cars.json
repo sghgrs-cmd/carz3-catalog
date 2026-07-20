@@ -507,5 +507,70 @@
       "images/cars/Volkswagen-Tharu-XR-2026/Volkswagen-Tharu-XR-2026-14.jpg",
       "images/cars/Volkswagen-Tharu-XR-2026/Volkswagen-Tharu-XR-2026-15.jpg"
     ]
+  },
+  {
+    "id": "kia-k3-2026",
+    "brand": "Kia",
+    "model": "K3",
+    "year": 2026,
+    "engineVolume": 1.5,
+    "horsePower": 115,
+    "transmission": "Вариатор (CVT)",
+    "drivetrain": "Передний привод",
+    "mileage": 0,
+    "price": 2054000,
+    "priceIsFrom": true,
+    "features": [
+      "2 комплектации",
+      "Comfort — 2 054 000 ₽",
+      "Prestige — 2 230 000 ₽"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "alexcash2025",
+    "images": [
+      "images/cars/Киак-3/Киа-к3-1.jpg",
+      "images/cars/Киак-3/Киа-к3-2.jpg",
+      "images/cars/Киак-3/Киа-к3-3.jpg",
+      "images/cars/Киак-3/Киа-к3-4.jpg",
+      "images/cars/Киак-3/Киа-к3-5.jpg",
+      "images/cars/Киак-3/Киа-к3-6.jpg",
+      "images/cars/Киак-3/Киа-к3-7.jpg",
+      "images/cars/Киак-3/Киа-к3-8.jpg",
+      "images/cars/Киак-3/Киа-к3-9.jpg",
+      "images/cars/Киак-3/Киа-к3-10.jpg",
+      "images/cars/Киак-3/Киа-к3-11.jpg",
+      "images/cars/Киак-3/Киа-к3-12.jpg"
+    ]
+  },
+  {
+    "id": "mazda-cx50-2026",
+    "brand": "Mazda",
+    "model": "CX-50",
+    "year": 2026,
+    "engineVolume": 2.0,
+    "horsePower": 155,
+    "transmission": "Автомат",
+    "drivetrain": "Передний привод",
+    "mileage": 0,
+    "price": 3370000,
+    "features": [
+      "Бензин",
+      "Автомат",
+      "Передний привод 2WD"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "Michail2004",
+    "images": [
+      "images/cars/Mazda-CX-50/Mazda-CX-50-1.jpg",
+      "images/cars/Mazda-CX-50/Mazda-CX-50-2.jpg",
+      "images/cars/Mazda-CX-50/Mazda-CX-50-3.jpg",
+      "images/cars/Mazda-CX-50/Mazda-CX-50-4.jpg",
+      "images/cars/Mazda-CX-50/Mazda-CX-50-5.jpg",
+      "images/cars/Mazda-CX-50/Mazda-CX-50-6.jpg",
+      "images/cars/Mazda-CX-50/Mazda-CX-50-7.jpg",
+      "images/cars/Mazda-CX-50/Mazda-CX-50-8.jpg"
+    ]
   }
 ]
