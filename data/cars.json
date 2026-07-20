@@ -38,6 +38,7 @@
     "drivetrain": "Передний привод",
     "mileage": 0,
     "price": 2530000,
+    "priceIsFrom": true,
     "features": [
       "4 комплектации",
       "Zihiang — 2 530 000 ₽",
@@ -59,8 +60,7 @@
       "images/cars/mazda-cx5/mazda-cx5-8.jpg",
       "images/cars/mazda-cx5/mazda-cx5-9.jpg",
       "images/cars/mazda-cx5/mazda-cx5-10.jpg"
-    ],
-    "priceIsFrom": true
+    ]
   },
   {
     "id": "nissan-qashqai-2026",
@@ -73,6 +73,7 @@
     "drivetrain": "Передний привод",
     "mileage": 0,
     "price": 2290000,
+    "priceIsFrom": true,
     "features": [
       "2 комплектации",
       "Edition — 2 290 000 ₽: 17\" диски, камера заднего вида",
@@ -87,8 +88,7 @@
       "images/cars/nissan-qashqai/nissan-qashqai-3.jpg",
       "images/cars/nissan-qashqai/nissan-qashqai-4.jpg",
       "images/cars/nissan-qashqai/nissan-qashqai-5.jpg"
-    ],
-    "priceIsFrom": true
+    ]
   },
   {
     "id": "bmw-320li-2021",
@@ -294,8 +294,6 @@
       "images/cars/geely-coolray-2026/geely-coolray-2026-8.jpg",
       "images/cars/geely-coolray-2026/geely-coolray-2026-9.jpg",
       "images/cars/geely-coolray-2026/geely-coolray-2026-10.jpg"
-      
-      
     ]
   },
   {
@@ -366,39 +364,7 @@
     ]
   },
   {
-    "id": "toyota-highlander-2026",
-    "brand": "Toyota",
-    "model": "Highlander",
-    "year": 2026,
-    "engineVolume": 2.0,
-    "horsePower": 248,
-    "transmission": "Автомат",
-    "drivetrain": "Полный привод",
-    "mileage": 0,
-    "price": 5250000,
-    "features": [
-      "Полный привод · Бензин",
-      "Камера 360°",
-      "Климат-контроль",
-      "Кожаный салон",
-      "Светодиодные фары",
-      "Бесключевой доступ",
-      "Электропривод сидений"
-    ],
-    "location": "Китай",
-    "status": "Под заказ",
-    "manager": "alexcash2025",
-    "images": [
-      "images/cars/Toyota-Highlander-2026/Toyota-Highlander-2026-1.jpg",
-      "images/cars/Toyota-Highlander-2026/Toyota-Highlander-2026-2.jpg",
-      "images/cars/Toyota-Highlander-2026/Toyota-Highlander-2026-3.jpg",
-      "images/cars/Toyota-Highlander-2026/Toyota-Highlander-2026-4.jpg",
-      "images/cars/Toyota-Highlander-2026/Toyota-Highlander-2026-5.jpg",
-      "images/cars/Toyota-Highlander-2026/Toyota-Highlander-2026-6.jpg"
-    ]
-  },
-  {
-    "id": "audi-a5-2026",
+    "id": "audi-a5-2026-predmax",
     "brand": "Audi",
     "model": "A5",
     "year": 2026,
@@ -407,11 +373,42 @@
     "transmission": "Робот",
     "drivetrain": "Полный привод",
     "mileage": 0,
-    "price": 6720000,
+    "price": 5660000,
     "features": [
+      "Предмаксимальная комплектация",
       "Полный привод · Робот",
       "Зелёный на чёрном",
-      "Цена под ключ с таможенными сборами и утилем",
+      "Цена под ключ с таможенными сборами, доставкой и утилем",
+      "Без скрытых платежей"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "alexcash2025",
+    "images": [
+      "images/cars/AUDI-A5-2026/AUDI-A5-2026-1.jpg",
+      "images/cars/AUDI-A5-2026/AUDI-A5-2026-2.jpg",
+      "images/cars/AUDI-A5-2026/AUDI-A5-2026-3.jpg",
+      "images/cars/AUDI-A5-2026/AUDI-A5-2026-4.jpg",
+      "images/cars/AUDI-A5-2026/AUDI-A5-2026-5.jpg"
+    ]
+  },
+  {
+    "id": "audi-a5-2026-max",
+    "brand": "Audi",
+    "model": "A5",
+    "year": 2026,
+    "engineVolume": 2.0,
+    "horsePower": 204,
+    "transmission": "Робот",
+    "drivetrain": "Полный привод",
+    "mileage": 0,
+    "price": 5900000,
+    "features": [
+      "Максимальная комплектация",
+      "Проекция на лобовое стекло",
+      "Полный привод · Робот",
+      "Зелёный на чёрном",
+      "Цена под ключ с таможенными сборами, доставкой и утилем",
       "Без скрытых платежей"
     ],
     "location": "Китай",
@@ -496,6 +493,48 @@
       "images/cars/Toyota-Haylender-2026/Toyota-Haylender-2026-8.jpg",
       "images/cars/Toyota-Haylender-2026/Toyota-Haylender-2026-9.jpg",
       "images/cars/Toyota-Haylender-2026/Toyota-Haylender-2026-10.jpg"
+    ]
+  },
+  {
+    "id": "volkswagen-tharu-xr-2026",
+    "brand": "Volkswagen",
+    "model": "Tharu XR",
+    "year": 2026,
+    "engineVolume": 1.5,
+    "horsePower": 110,
+    "transmission": "Автомат",
+    "drivetrain": "Передний привод",
+    "mileage": 0,
+    "price": 2137000,
+    "priceIsFrom": true,
+    "features": [
+      "Цена под ключ · от 2 137 000 ₽",
+      "Климат-контроль",
+      "Камера заднего вида",
+      "Светодиодные фары",
+      "Бесключевой доступ",
+      "Кожаный руль",
+      "Адаптивный круиз-контроль"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "alexcash2025",
+    "images": [
+      "images/cars/Volkswagen-Tharu-XR-2026/Volkswagen-Tharu-XR-2026-1.jpg",
+      "images/cars/Volkswagen-Tharu-XR-2026/Volkswagen-Tharu-XR-2026-2.jpg",
+      "images/cars/Volkswagen-Tharu-XR-2026/Volkswagen-Tharu-XR-2026-3.jpg",
+      "images/cars/Volkswagen-Tharu-XR-2026/Volkswagen-Tharu-XR-2026-4.jpg",
+      "images/cars/Volkswagen-Tharu-XR-2026/Volkswagen-Tharu-XR-2026-5.jpg",
+      "images/cars/Volkswagen-Tharu-XR-2026/Volkswagen-Tharu-XR-2026-6.jpg",
+      "images/cars/Volkswagen-Tharu-XR-2026/Volkswagen-Tharu-XR-2026-7.jpg",
+      "images/cars/Volkswagen-Tharu-XR-2026/Volkswagen-Tharu-XR-2026-8.jpg",
+      "images/cars/Volkswagen-Tharu-XR-2026/Volkswagen-Tharu-XR-2026-9.jpg",
+      "images/cars/Volkswagen-Tharu-XR-2026/Volkswagen-Tharu-XR-2026-10.jpg",
+      "images/cars/Volkswagen-Tharu-XR-2026/Volkswagen-Tharu-XR-2026-11.jpg",
+      "images/cars/Volkswagen-Tharu-XR-2026/Volkswagen-Tharu-XR-2026-12.jpg",
+      "images/cars/Volkswagen-Tharu-XR-2026/Volkswagen-Tharu-XR-2026-13.jpg",
+      "images/cars/Volkswagen-Tharu-XR-2026/Volkswagen-Tharu-XR-2026-14.jpg",
+      "images/cars/Volkswagen-Tharu-XR-2026/Volkswagen-Tharu-XR-2026-15.jpg"
     ]
   }
 ]
