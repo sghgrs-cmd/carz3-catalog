@@ -364,7 +364,7 @@
     ]
   },
   {
-    "id": "audi-a5-2026-predmax",
+    "id": "audi-a5-2026",
     "brand": "Audi",
     "model": "A5",
     "year": 2026,
@@ -374,46 +374,17 @@
     "drivetrain": "Полный привод",
     "mileage": 0,
     "price": 5660000,
+    "priceIsFrom": true,
     "features": [
-      "Предмаксимальная комплектация",
-      "Полный привод · Робот",
-      "Зелёный на чёрном",
+      "2 комплектации",
+      "Предмаксимальная — 5 660 000 ₽: полный привод, робот, зелёный на чёрном",
+      "Максимальная — 5 900 000 ₽: проекция на лобовое стекло + всё из предмакс.",
       "Цена под ключ с таможенными сборами, доставкой и утилем",
       "Без скрытых платежей"
     ],
     "location": "Китай",
     "status": "Под заказ",
     "manager": "alexcash2025",
-    "images": [
-      "images/cars/AUDI-A5-2026/AUDI-A5-2026-1.jpg",
-      "images/cars/AUDI-A5-2026/AUDI-A5-2026-2.jpg",
-      "images/cars/AUDI-A5-2026/AUDI-A5-2026-3.jpg",
-      "images/cars/AUDI-A5-2026/AUDI-A5-2026-4.jpg",
-      "images/cars/AUDI-A5-2026/AUDI-A5-2026-5.jpg"
-    ]
-  },
-  {
-    "id": "audi-a5-2026-max",
-    "brand": "Audi",
-    "model": "A5",
-    "year": 2026,
-    "engineVolume": 2.0,
-    "horsePower": 204,
-    "transmission": "Робот",
-    "drivetrain": "Полный привод",
-    "mileage": 0,
-    "price": 5900000,
-    "features": [
-      "Максимальная комплектация",
-      "Проекция на лобовое стекло",
-      "Полный привод · Робот",
-      "Зелёный на чёрном",
-      "Цена под ключ с таможенными сборами, доставкой и утилем",
-      "Без скрытых платежей"
-    ],
-    "location": "Китай",
-    "status": "Под заказ",
-    "manager": "Michail2004",
     "images": [
       "images/cars/AUDI-A5-2026/AUDI-A5-2026-1.jpg",
       "images/cars/AUDI-A5-2026/AUDI-A5-2026-2.jpg",
@@ -445,7 +416,7 @@
     ],
     "location": "Китай",
     "status": "Под заказ",
-    "manager": "alexcash2025",
+    "manager": "Michail2004",
     "images": [
       "images/cars/Toyota-Rav-4/Toyota-Rav-4-1.jpg",
       "images/cars/Toyota-Rav-4/Toyota-Rav-4-2.jpg",
@@ -481,7 +452,7 @@
     ],
     "location": "Китай",
     "status": "Под заказ",
-    "manager": "Michail2004",
+    "manager": "alexcash2025",
     "images": [
       "images/cars/Toyota-Haylender-2026/Toyota-Haylender-2026-1.jpg",
       "images/cars/Toyota-Haylender-2026/Toyota-Haylender-2026-2.jpg",
@@ -518,7 +489,7 @@
     ],
     "location": "Китай",
     "status": "Под заказ",
-    "manager": "alexcash2025",
+    "manager": "Michail2004",
     "images": [
       "images/cars/Volkswagen-Tharu-XR-2026/Volkswagen-Tharu-XR-2026-1.jpg",
       "images/cars/Volkswagen-Tharu-XR-2026/Volkswagen-Tharu-XR-2026-2.jpg",
