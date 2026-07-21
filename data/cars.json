@@ -572,5 +572,70 @@
       "images/cars/Mazda-CX-50/Mazda-CX-50-7.jpg",
       "images/cars/Mazda-CX-50/Mazda-CX-50-8.jpg"
     ]
+  },
+  {
+    "id": "volkswagen-tiguan-l-pro-2026",
+    "brand": "Volkswagen",
+    "model": "Tiguan L Pro",
+    "year": 2026,
+    "engineVolume": 2.0,
+    "horsePower": 220,
+    "transmission": "Автомат",
+    "drivetrain": "Полный привод",
+    "mileage": 0,
+    "price": 4690000,
+    "features": [
+      "R-Line",
+      "Цена под ключ в Москве",
+      "Полный привод 4WD"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "alexcash2025",
+    "images": [
+      "images/cars/Volkswagen-Tiguan-L-pro/Volkswagen-Tiguan-L-pro-1.jpg",
+      "images/cars/Volkswagen-Tiguan-L-pro/Volkswagen-Tiguan-L-pro-2.jpg",
+      "images/cars/Volkswagen-Tiguan-L-pro/Volkswagen-Tiguan-L-pro-3.jpg",
+      "images/cars/Volkswagen-Tiguan-L-pro/Volkswagen-Tiguan-L-pro-4.jpg",
+      "images/cars/Volkswagen-Tiguan-L-pro/Volkswagen-Tiguan-L-pro-5.jpg",
+      "images/cars/Volkswagen-Tiguan-L-pro/Volkswagen-Tiguan-L-pro-6.jpg",
+      "images/cars/Volkswagen-Tiguan-L-pro/Volkswagen-Tiguan-L-pro-7.jpg",
+      "images/cars/Volkswagen-Tiguan-L-pro/Volkswagen-Tiguan-L-pro-8.jpg",
+      "images/cars/Volkswagen-Tiguan-L-pro/Volkswagen-Tiguan-L-pro-9.jpg",
+      "images/cars/Volkswagen-Tiguan-L-pro/Volkswagen-Tiguan-L-pro-10.jpg",
+      "images/cars/Volkswagen-Tiguan-L-pro/Volkswagen-Tiguan-L-pro-11.jpg"
+    ]
+  },
+  {
+    "id": "volkswagen-teramont-pro-2026",
+    "brand": "Volkswagen",
+    "model": "Teramont Pro",
+    "year": 2026,
+    "engineVolume": 2.0,
+    "horsePower": 272,
+    "transmission": "Автомат",
+    "drivetrain": "Полный привод",
+    "mileage": 0,
+    "price": 5866000,
+    "features": [
+      "Discovery",
+      "Цена под ключ",
+      "Полный привод 4WD"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "Michail2004",
+    "images": [
+      "images/cars/VOLKSWAGEN-Teramont-Pro/VOLKSWAGEN-Teramont-Pro-1.jpg",
+      "images/cars/VOLKSWAGEN-Teramont-Pro/VOLKSWAGEN-Teramont-Pro-2.jpg",
+      "images/cars/VOLKSWAGEN-Teramont-Pro/VOLKSWAGEN-Teramont-Pro-3.jpg",
+      "images/cars/VOLKSWAGEN-Teramont-Pro/VOLKSWAGEN-Teramont-Pro-4.jpg",
+      "images/cars/VOLKSWAGEN-Teramont-Pro/VOLKSWAGEN-Teramont-Pro-5.jpg",
+      "images/cars/VOLKSWAGEN-Teramont-Pro/VOLKSWAGEN-Teramont-Pro-6.jpg",
+      "images/cars/VOLKSWAGEN-Teramont-Pro/VOLKSWAGEN-Teramont-Pro-7.jpg",
+      "images/cars/VOLKSWAGEN-Teramont-Pro/VOLKSWAGEN-Teramont-Pro-8.jpg",
+      "images/cars/VOLKSWAGEN-Teramont-Pro/VOLKSWAGEN-Teramont-Pro-9.jpg",
+      "images/cars/VOLKSWAGEN-Teramont-Pro/VOLKSWAGEN-Teramont-Pro-10.jpg"
+    ]
   }
 ]
