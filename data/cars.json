@@ -650,10 +650,10 @@
     "mileage": 48000,
     "price": 2100000,
     "features": [
+      "Цена под ключ",
       "Дизель",
-      "Без пробега по РФ",
-      "2 ключа",
-      "Цена под ключ"
+      "Климат-контроль",
+      "Камера заднего вида"
     ],
     "location": "Корея",
     "status": "Под заказ",
@@ -680,8 +680,9 @@
     "price": 3090000,
     "features": [
       "Цена под ключ",
-      "С таможней и утилем",
-      "Прямиком из Кореи"
+      "Светодиодные фары",
+      "Климат-контроль",
+      "Камера заднего вида"
     ],
     "location": "Корея",
     "status": "Под заказ",
@@ -693,6 +694,35 @@
       "images/cars/Hyundai-Sonata/Hyundai-Sonata-4.jpg",
       "images/cars/Hyundai-Sonata/Hyundai-Sonata-5.jpg",
       "images/cars/Hyundai-Sonata/Hyundai-Sonata-6.jpg"
+    ]
+  },
+  {
+    "id": "kia-k5-korea-2023",
+    "brand": "Kia",
+    "model": "K5",
+    "year": 2023,
+    "engineVolume": 2.0,
+    "horsePower": 160,
+    "transmission": "Автомат",
+    "drivetrain": "Передний привод",
+    "mileage": 23800,
+    "price": 2750000,
+    "features": [
+      "Цена под ключ",
+      "Бесключевой доступ",
+      "Светодиодные фары",
+      "Круиз-контроль"
+    ],
+    "location": "Корея",
+    "status": "Под заказ",
+    "manager": "alexcash2025",
+    "images": [
+      "images/cars/KIA-K5/KIA-K5-1.jpg",
+      "images/cars/KIA-K5/KIA-K5-2.jpg",
+      "images/cars/KIA-K5/KIA-K5-3.jpg",
+      "images/cars/KIA-K5/KIA-K5-4.jpg",
+      "images/cars/KIA-K5/KIA-K5-5.jpg",
+      "images/cars/KIA-K5/KIA-K5-6.jpg"
     ]
   }
 ]
