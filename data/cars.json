@@ -637,5 +637,62 @@
       "images/cars/VOLKSWAGEN-Teramont-Pro/VOLKSWAGEN-Teramont-Pro-9.jpg",
       "images/cars/VOLKSWAGEN-Teramont-Pro/VOLKSWAGEN-Teramont-Pro-10.jpg"
     ]
+  },
+  {
+    "id": "kia-seltos-korea-2021",
+    "brand": "Kia",
+    "model": "Seltos",
+    "year": 2021,
+    "engineVolume": 1.6,
+    "horsePower": 136,
+    "transmission": "Автомат",
+    "drivetrain": "Передний привод",
+    "mileage": 48000,
+    "price": 2100000,
+    "features": [
+      "Дизель",
+      "Без пробега по РФ",
+      "2 ключа",
+      "Цена под ключ"
+    ],
+    "location": "Корея",
+    "status": "Под заказ",
+    "manager": "alexcash2025",
+    "images": [
+      "images/cars/KIA-Seltos/KIA-Seltos-1.jpg",
+      "images/cars/KIA-Seltos/KIA-Seltos-2.jpg",
+      "images/cars/KIA-Seltos/KIA-Seltos-3.jpg",
+      "images/cars/KIA-Seltos/KIA-Seltos-4.jpg",
+      "images/cars/KIA-Seltos/KIA-Seltos-5.jpg",
+      "images/cars/KIA-Seltos/KIA-Seltos-6.jpg"
+    ]
+  },
+  {
+    "id": "hyundai-sonata-2023",
+    "brand": "Hyundai",
+    "model": "Sonata",
+    "year": 2023,
+    "engineVolume": 2.0,
+    "horsePower": 159,
+    "transmission": "Автомат",
+    "drivetrain": "Передний привод",
+    "mileage": 43000,
+    "price": 3090000,
+    "features": [
+      "Цена под ключ до Москвы",
+      "С таможней и утилем",
+      "Авто прямиком из Кореи"
+    ],
+    "location": "Корея",
+    "status": "Под заказ",
+    "manager": "Michail2004",
+    "images": [
+      "images/cars/Hyundai-Sonata/Hyundai-Sonata-1.jpg",
+      "images/cars/Hyundai-Sonata/Hyundai-Sonata-2.jpg",
+      "images/cars/Hyundai-Sonata/Hyundai-Sonata-3.jpg",
+      "images/cars/Hyundai-Sonata/Hyundai-Sonata-4.jpg",
+      "images/cars/Hyundai-Sonata/Hyundai-Sonata-5.jpg",
+      "images/cars/Hyundai-Sonata/Hyundai-Sonata-6.jpg"
+    ]
   }
 ]
