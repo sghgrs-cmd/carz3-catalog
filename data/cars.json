@@ -724,5 +724,96 @@
       "images/cars/KIA-K5/KIA-K5-5.jpg",
       "images/cars/KIA-K5/KIA-K5-6.jpg"
     ]
+  },
+  {
+    "id": "honda-vezel-2023",
+    "brand": "Honda",
+    "model": "Vezel",
+    "year": 2023,
+    "engineVolume": 1.5,
+    "horsePower": 124,
+    "transmission": "Вариатор (CVT)",
+    "drivetrain": "Передний привод",
+    "mileage": 15000,
+    "price": 1990000,
+    "features": [
+      "Цена под ключ",
+      "Honda Sensing (уровень L2)",
+      "Адаптивный круиз-контроль",
+      "Бесключевой доступ",
+      "Подогрев сидений"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "Michail2004",
+    "images": [
+      "images/cars/Honda-Vezel/Honda-Vezel-1.jpg",
+      "images/cars/Honda-Vezel/Honda-Vezel-2.jpg",
+      "images/cars/Honda-Vezel/Honda-Vezel-3.jpg",
+      "images/cars/Honda-Vezel/Honda-Vezel-4.jpg",
+      "images/cars/Honda-Vezel/Honda-Vezel-5.jpg",
+      "images/cars/Honda-Vezel/Honda-Vezel-6.jpg"
+    ]
+  },
+  {
+    "id": "volkswagen-touran-l-2022",
+    "brand": "Volkswagen",
+    "model": "Touran L",
+    "year": 2022,
+    "engineVolume": 1.4,
+    "horsePower": 150,
+    "transmission": "Робот (DSG)",
+    "drivetrain": "Передний привод",
+    "mileage": 5000,
+    "price": 2390000,
+    "features": [
+      "Цена под ключ",
+      "7-местный салон",
+      "Панорамная крыша",
+      "Кожаный салон",
+      "Двухзонный климат-контроль"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "alexcash2025",
+    "images": [
+      "images/cars/Volkswagen-Touran-L-280TSI-DSG/Volkswagen-Touran-L-280TSI-DSG-1.jpg",
+      "images/cars/Volkswagen-Touran-L-280TSI-DSG/Volkswagen-Touran-L-280TSI-DSG-2.jpg",
+      "images/cars/Volkswagen-Touran-L-280TSI-DSG/Volkswagen-Touran-L-280TSI-DSG-3.jpg",
+      "images/cars/Volkswagen-Touran-L-280TSI-DSG/Volkswagen-Touran-L-280TSI-DSG-4.jpg",
+      "images/cars/Volkswagen-Touran-L-280TSI-DSG/Volkswagen-Touran-L-280TSI-DSG-5.jpg",
+      "images/cars/Volkswagen-Touran-L-280TSI-DSG/Volkswagen-Touran-L-280TSI-DSG-6.jpg",
+      "images/cars/Volkswagen-Touran-L-280TSI-DSG/Volkswagen-Touran-L-280TSI-DSG-7.jpg"
+    ]
+  },
+  {
+    "id": "mini-countryman-cooper-2022",
+    "brand": "Mini",
+    "model": "Countryman Cooper",
+    "year": 2022,
+    "engineVolume": 1.5,
+    "horsePower": 136,
+    "transmission": "Робот",
+    "drivetrain": "Передний привод",
+    "mileage": 37000,
+    "price": 2590000,
+    "features": [
+      "Цена под ключ",
+      "Кожаный салон",
+      "Климат-контроль",
+      "Круиз-контроль",
+      "Светодиодные фары"
+    ],
+    "location": "Корея",
+    "status": "Под заказ",
+    "manager": "Michail2004",
+    "images": [
+      "images/cars/Mini-Countryman-Cooper/Mini-Countryman-Cooper-1.jpg",
+      "images/cars/Mini-Countryman-Cooper/Mini-Countryman-Cooper-2.jpg",
+      "images/cars/Mini-Countryman-Cooper/Mini-Countryman-Cooper-3.jpg",
+      "images/cars/Mini-Countryman-Cooper/Mini-Countryman-Cooper-4.jpg",
+      "images/cars/Mini-Countryman-Cooper/Mini-Countryman-Cooper-5.jpg",
+      "images/cars/Mini-Countryman-Cooper/Mini-Countryman-Cooper-6.jpg"
+    ]
   }
 ]
