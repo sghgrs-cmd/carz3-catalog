@@ -815,5 +815,40 @@
       "images/cars/Mini-Countryman-Cooper/Mini-Countryman-Cooper-5.jpg",
       "images/cars/Mini-Countryman-Cooper/Mini-Countryman-Cooper-6.jpg"
     ]
+  },
+  {
+    "id": "hyundai-tucson-2026",
+    "brand": "Hyundai",
+    "model": "Tucson",
+    "year": 2026,
+    "engineVolume": 1.5,
+    "horsePower": 200,
+    "transmission": "Автомат",
+    "drivetrain": "Полный привод",
+    "mileage": 0,
+    "price": 3790000,
+    "features": [
+      "Цена под ключ",
+      "Максимальная комплектация",
+      "Панорамная крыша",
+      "Кожаный салон",
+      "Адаптивный круиз-контроль",
+      "Камера 360°"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "alexcash2025",
+    "images": [
+      "images/cars/Hyundai-Tucson/Hyundai-Tucson-1.jpg",
+      "images/cars/Hyundai-Tucson/Hyundai-Tucson-2.jpg",
+      "images/cars/Hyundai-Tucson/Hyundai-Tucson-3.jpg",
+      "images/cars/Hyundai-Tucson/Hyundai-Tucson-4.jpg",
+      "images/cars/Hyundai-Tucson/Hyundai-Tucson-5.jpg",
+      "images/cars/Hyundai-Tucson/Hyundai-Tucson-6.jpg",
+      "images/cars/Hyundai-Tucson/Hyundai-Tucson-7.jpg",
+      "images/cars/Hyundai-Tucson/Hyundai-Tucson-8.jpg",
+      "images/cars/Hyundai-Tucson/Hyundai-Tucson-9.jpg",
+      "images/cars/Hyundai-Tucson/Hyundai-Tucson-10.jpg"
+    ]
   }
 ]
