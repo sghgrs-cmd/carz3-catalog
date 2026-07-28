@@ -850,5 +850,192 @@
       "images/cars/Hyundai-Tucson/Hyundai-Tucson-9.jpg",
       "images/cars/Hyundai-Tucson/Hyundai-Tucson-10.jpg"
     ]
+  },
+  {
+    "id": "geely-galaxy-starship-7-2026",
+    "brand": "Geely",
+    "model": "Galaxy Starship 7",
+    "year": 2026,
+    "engineVolume": 1.5,
+    "horsePower": 238,
+    "transmission": "Автомат",
+    "drivetrain": "Передний привод",
+    "mileage": 0,
+    "price": 3740000,
+    "features": [
+      "Цена под ключ",
+      "Гибридный двигатель PHEV",
+      "Исполнение White on Black",
+      "Кожаный салон в чёрном цвете",
+      "Панорамное остекление",
+      "Адаптивный круиз-контроль",
+      "Мультимедиа высокого разрешения"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "alexcash2025",
+    "images": [
+      "images/cars/Geely-Galaxy-Starship-7/Geely-Galaxy-Starship-7-1.jpg",
+      "images/cars/Geely-Galaxy-Starship-7/Geely-Galaxy-Starship-7-2.jpg",
+      "images/cars/Geely-Galaxy-Starship-7/Geely-Galaxy-Starship-7-3.jpg",
+      "images/cars/Geely-Galaxy-Starship-7/Geely-Galaxy-Starship-7-4.jpg",
+      "images/cars/Geely-Galaxy-Starship-7/Geely-Galaxy-Starship-7-5.jpg",
+      "images/cars/Geely-Galaxy-Starship-7/Geely-Galaxy-Starship-7-6.jpg"
+    ]
+  },
+  {
+    "id": "toyota-camry-2026",
+    "brand": "Toyota",
+    "model": "Camry",
+    "year": 2026,
+    "engineVolume": 2.0,
+    "horsePower": 173,
+    "transmission": "Вариатор",
+    "drivetrain": "Передний привод",
+    "mileage": 0,
+    "price": 3790000,
+    "features": [
+      "Цена под ключ",
+      "Бензиновый двигатель",
+      "Исполнение Black on Black",
+      "Кожаный салон премиум-класса",
+      "Пакет безопасности Toyota Safety Sense",
+      "Двухзонный климат-контроль",
+      "Светодиодная оптика"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "alexcash2025",
+    "images": [
+      "images/cars/Toyota-Camry/Toyota-Camry-1.jpg",
+      "images/cars/Toyota-Camry/Toyota-Camry-2.jpg",
+      "images/cars/Toyota-Camry/Toyota-Camry-3.jpg",
+      "images/cars/Toyota-Camry/Toyota-Camry-4.jpg"
+    ]
+  },
+  {
+    "id": "geely-monjaro-2026",
+    "brand": "Geely",
+    "model": "Monjaro",
+    "year": 2026,
+    "engineVolume": 2.0,
+    "horsePower": 272,
+    "transmission": "Автомат",
+    "drivetrain": "Полный привод",
+    "mileage": 0,
+    "price": 4050000,
+    "features": [
+      "Цена под ключ",
+      "Полный привод 4WD",
+      "Благородный серый цвет кузова",
+      "Вентиляция и подогрев сидений",
+      "Премиальная акустика Bose",
+      "Тройной экран мультимедиа",
+      "Панорамная крыша с люком"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "alexcash2025",
+    "images": [
+      "images/cars/Geely-Monjaro/Geely-Monjaro-1.jpg",
+      "images/cars/Geely-Monjaro/Geely-Monjaro-2.jpg",
+      "images/cars/Geely-Monjaro/Geely-Monjaro-3.jpg"
+    ]
+  },
+  {
+    "id": "volkswagen-sagitar-2022",
+    "brand": "Volkswagen",
+    "model": "Sagitar",
+    "year": 2022,
+    "engineVolume": 1.4,
+    "horsePower": 149,
+    "transmission": "Робот",
+    "drivetrain": "Передний привод",
+    "mileage": 56000,
+    "price": 1950000,
+    "features": [
+      "Цена под ключ",
+      "Заводской окрас кузова",
+      "Турбированный двигатель TSI",
+      "Эргономичный кожаный салон",
+      "Многофункциональный руль",
+      "Климат-контроль и парктроники"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "alexcash2025",
+    "images": [
+      "images/cars/Volkswagen-Sagitar-2022/Volkswagen-Sagitar-2022-1.jpg",
+      "images/cars/Volkswagen-Sagitar-2022/Volkswagen-Sagitar-2022-2.jpg",
+      "images/cars/Volkswagen-Sagitar-2022/Volkswagen-Sagitar-2022-3.jpg",
+      "images/cars/Volkswagen-Sagitar-2022/Volkswagen-Sagitar-2022-4.jpg",
+      "images/cars/Volkswagen-Sagitar-2022/Volkswagen-Sagitar-2022-5.jpg"
+    ]
+  },
+  {
+    "id": "kia-morning-2023",
+    "brand": "Kia",
+    "model": "Morning",
+    "year": 2023,
+    "engineVolume": 1.0,
+    "horsePower": 76,
+    "transmission": "Автомат",
+    "drivetrain": "Передний привод",
+    "mileage": 23200,
+    "price": 1690000,
+    "features": [
+      "Цена под ключ",
+      "Отличное техническое состояние",
+      "Экономичный расход топлива",
+      "Мультимедийный комплекс",
+      "Камера заднего вида",
+      "Климатическая система"
+    ],
+    "location": "Корея",
+    "status": "Под заказ",
+    "manager": "Michail2004",
+    "images": [
+      "images/cars/KIA-MORNING/KIA-MORNING-1.jpg",
+      "images/cars/KIA-MORNING/KIA-MORNING-2.jpg",
+      "images/cars/KIA-MORNING/KIA-MORNING-3.jpg",
+      "images/cars/KIA-MORNING/KIA-MORNING-4.jpg",
+      "images/cars/KIA-MORNING/KIA-MORNING-5.jpg",
+      "images/cars/KIA-MORNING/KIA-MORNING-6.jpg"
+    ]
+  },
+  {
+    "id": "hyundai-venue-2024",
+    "brand": "Hyundai",
+    "model": "Venue",
+    "year": 2024,
+    "engineVolume": 1.6,
+    "horsePower": 121,
+    "transmission": "Вариатор",
+    "drivetrain": "Передний привод",
+    "mileage": 9900,
+    "price": 2190000,
+    "features": [
+      "Цена под ключ",
+      "Без пробега по РФ",
+      "Состояние нового автомобиля",
+      "Комплекс систем помощи водителю",
+      "Мультимедиа с Apple CarPlay / Android Auto",
+      "Климат-контроль и круиз-контроль"
+    ],
+    "location": "Корея",
+    "status": "Под заказ",
+    "manager": "Michail2004",
+    "images": [
+      "images/cars/Hyundai-Venue/Hyundai-Venue-1.jpg",
+      "images/cars/Hyundai-Venue/Hyundai-Venue-2.jpg",
+      "images/cars/Hyundai-Venue/Hyundai-Venue-3.jpg",
+      "images/cars/Hyundai-Venue/Hyundai-Venue-4.jpg",
+      "images/cars/Hyundai-Venue/Hyundai-Venue-5.jpg",
+      "images/cars/Hyundai-Venue/Hyundai-Venue-6.jpg",
+      "images/cars/Hyundai-Venue/Hyundai-Venue-7.jpg",
+      "images/cars/Hyundai-Venue/Hyundai-Venue-8.jpg",
+      "images/cars/Hyundai-Venue/Hyundai-Venue-9.jpg",
+      "images/cars/Hyundai-Venue/Hyundai-Venue-10.jpg"
+    ]
   }
 ]
