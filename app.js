@@ -132,6 +132,7 @@ function createCarCard(car) {
     <div
       data-car-id="${car.id}"
       data-location="${car.location || ''}"
+      data-mileage="${car.mileage}"
       data-search-text="${`${car.brand} ${car.model} ${car.year}`.toLowerCase()}"
       tabindex="0"
       role="button"
@@ -197,6 +198,7 @@ function renderCars() {
 // 5b. ФИЛЬТР ПО СТРАНЕ + ПОИСК (работают вместе, не по отдельности)
 // ==========================================================================
 const filterTabs = document.querySelectorAll('.filter-tab');
+const conditionTabs = document.querySelectorAll('.condition-tab');
 const emptyFilterMessage = document.getElementById('emptyFilterMessage');
 const carSearchInput = document.getElementById('carSearch');
 const carSearchClearBtn = document.getElementById('carSearchClear');
@@ -205,16 +207,29 @@ const carSearchClearBtn = document.getElementById('carSearchClear');
 // порядок объявления классов в скомпилированном Tailwind CSS ни на что не влияет.
 const TAB_ACTIVE = 'filter-tab rounded-full border px-4 py-2 text-sm font-medium transition-colors border-gold bg-gold text-black';
 const TAB_INACTIVE = 'filter-tab rounded-full border px-4 py-2 text-sm font-medium transition-colors border-neutral-800 text-neutral-400 hover:border-neutral-600 hover:text-white';
+const COND_ACTIVE = 'condition-tab rounded-full border px-4 py-2 text-sm font-medium transition-colors border-gold bg-gold text-black';
+const COND_INACTIVE = 'condition-tab rounded-full border px-4 py-2 text-sm font-medium transition-colors border-neutral-800 text-neutral-400 hover:border-neutral-600 hover:text-white';
 
 let currentLocationFilter = 'all';
+let currentConditionFilter = 'all';
 let currentSearchQuery = '';
 
 function applyFilters() {
   let visibleCount = 0;
   carsGrid.querySelectorAll('[data-car-id]').forEach((card) => {
     const matchesLocation = currentLocationFilter === 'all' || card.dataset.location === currentLocationFilter;
+    
+    const mileage = parseInt(card.dataset.mileage, 10);
+    let matchesCondition = true;
+    if (currentConditionFilter === 'new') {
+      matchesCondition = (mileage === 0);
+    } else if (currentConditionFilter === 'used') {
+      matchesCondition = (mileage > 0);
+    }
+
     const matchesSearch = !currentSearchQuery || card.dataset.searchText.includes(currentSearchQuery);
-    const visible = matchesLocation && matchesSearch;
+    
+    const visible = matchesLocation && matchesCondition && matchesSearch;
     card.classList.toggle('hidden', !visible);
     if (visible) visibleCount += 1;
   });
@@ -223,20 +238,28 @@ function applyFilters() {
     emptyFilterMessage.classList.toggle('hidden', visibleCount > 0);
     emptyFilterMessage.textContent = currentSearchQuery
       ? `Ничего не найдено по запросу «${carSearchInput.value}»`
-      : 'Пока нет предложений по этому направлению — загляните позже.';
+      : 'Пока нет предложений по этому направлению/состоянию — загляните позже.';
   }
   if (carSearchClearBtn) {
     carSearchClearBtn.classList.toggle('hidden', !currentSearchQuery);
     carSearchClearBtn.classList.toggle('flex', Boolean(currentSearchQuery));
   }
   if (carsCountEl) {
-    const suffix = currentLocationFilter === 'all' ? '' : ` · ${currentLocationFilter}`;
+    let suffix = currentLocationFilter === 'all' ? '' : ` · ${currentLocationFilter}`;
+    if (currentConditionFilter === 'new') suffix += ' · Новые';
+    if (currentConditionFilter === 'used') suffix += ' · С пробегом';
     carsCountEl.textContent = `${visibleCount} авто${suffix}`;
   }
 
   filterTabs.forEach((tab) => {
     const isActive = tab.dataset.filter === currentLocationFilter;
     tab.className = isActive ? TAB_ACTIVE : TAB_INACTIVE;
+    tab.setAttribute('aria-selected', String(isActive));
+  });
+
+  conditionTabs.forEach((tab) => {
+    const isActive = tab.dataset.condition === currentConditionFilter;
+    tab.className = isActive ? COND_ACTIVE : COND_INACTIVE;
     tab.setAttribute('aria-selected', String(isActive));
   });
 }
@@ -572,6 +595,14 @@ document.addEventListener('DOMContentLoaded', () => {
   filterTabs.forEach((tab) => {
     tab.addEventListener('click', () => {
       currentLocationFilter = tab.dataset.filter;
+      applyFilters();
+      hapticImpact('light');
+    });
+  });
+
+  conditionTabs.forEach((tab) => {
+    tab.addEventListener('click', () => {
+      currentConditionFilter = tab.dataset.condition;
       applyFilters();
       hapticImpact('light');
     });
