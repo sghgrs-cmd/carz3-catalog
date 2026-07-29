@@ -4,7 +4,7 @@
     "brand": "BMW",
     "model": "X3",
     "year": 2026,
-    "engineVolume": 2.0,
+    "engineVolume": 2,
     "horsePower": 258,
     "transmission": "Автомат",
     "drivetrain": "Полный привод",
@@ -32,7 +32,7 @@
     "brand": "Mazda",
     "model": "CX-5",
     "year": 2026,
-    "engineVolume": 2.0,
+    "engineVolume": 2,
     "horsePower": 155,
     "transmission": "Автомат",
     "drivetrain": "Передний привод",
@@ -67,7 +67,7 @@
     "brand": "Nissan",
     "model": "Qashqai",
     "year": 2026,
-    "engineVolume": 2.0,
+    "engineVolume": 2,
     "horsePower": 140,
     "transmission": "Вариатор",
     "drivetrain": "Передний привод",
@@ -95,7 +95,7 @@
     "brand": "BMW",
     "model": "320Li",
     "year": 2021,
-    "engineVolume": 2.0,
+    "engineVolume": 2,
     "horsePower": 156,
     "transmission": "Автомат",
     "drivetrain": "Задний привод",
@@ -165,7 +165,7 @@
     "brand": "Nissan",
     "model": "X-Trail",
     "year": 2026,
-    "engineVolume": 2.0,
+    "engineVolume": 2,
     "horsePower": 141,
     "transmission": "Вариатор",
     "drivetrain": "Передний привод",
@@ -224,6 +224,10 @@
       "images/cars/kia-seltos-2026/kia-seltos-2026-4.jpg",
       "images/cars/kia-seltos-2026/kia-seltos-2026-5.jpg",
       "images/cars/kia-seltos-2026/kia-seltos-2026-6.jpg"
+    ],
+    "tags": [
+      "Компактный кроссовер",
+      "Экономичный"
     ]
   },
   {
@@ -368,7 +372,7 @@
     "brand": "Audi",
     "model": "A5",
     "year": 2026,
-    "engineVolume": 2.0,
+    "engineVolume": 2,
     "horsePower": 204,
     "transmission": "Робот",
     "drivetrain": "Полный привод",
@@ -391,6 +395,10 @@
       "images/cars/AUDI-A5-2026/AUDI-A5-2026-3.jpg",
       "images/cars/AUDI-A5-2026/AUDI-A5-2026-4.jpg",
       "images/cars/AUDI-A5-2026/AUDI-A5-2026-5.jpg"
+    ],
+    "tags": [
+      "Премиум люкс",
+      "Новинка"
     ]
   },
   {
@@ -398,7 +406,7 @@
     "brand": "Toyota",
     "model": "RAV-4",
     "year": 2026,
-    "engineVolume": 2.0,
+    "engineVolume": 2,
     "horsePower": 171,
     "transmission": "Вариатор (CVT)",
     "drivetrain": "Полный привод",
@@ -433,7 +441,7 @@
     "brand": "Toyota",
     "model": "Highlander",
     "year": 2026,
-    "engineVolume": 2.0,
+    "engineVolume": 2,
     "horsePower": 248,
     "transmission": "Автомат",
     "drivetrain": "Полный привод",
@@ -548,7 +556,7 @@
     "brand": "Mazda",
     "model": "CX-50",
     "year": 2026,
-    "engineVolume": 2.0,
+    "engineVolume": 2,
     "horsePower": 155,
     "transmission": "Автомат",
     "drivetrain": "Передний привод",
@@ -578,7 +586,7 @@
     "brand": "Volkswagen",
     "model": "Tiguan L Pro",
     "year": 2026,
-    "engineVolume": 2.0,
+    "engineVolume": 2,
     "horsePower": 220,
     "transmission": "Автомат",
     "drivetrain": "Полный привод",
@@ -611,7 +619,7 @@
     "brand": "Volkswagen",
     "model": "Teramont Pro",
     "year": 2026,
-    "engineVolume": 2.0,
+    "engineVolume": 2,
     "horsePower": 272,
     "transmission": "Автомат",
     "drivetrain": "Полный привод",
@@ -665,6 +673,10 @@
       "images/cars/KIA-Seltos/KIA-Seltos-4.jpg",
       "images/cars/KIA-Seltos/KIA-Seltos-5.jpg",
       "images/cars/KIA-Seltos/KIA-Seltos-6.jpg"
+    ],
+    "tags": [
+      "Компактный кроссовер",
+      "Экономичный"
     ]
   },
   {
@@ -672,7 +684,7 @@
     "brand": "Hyundai",
     "model": "Sonata",
     "year": 2023,
-    "engineVolume": 2.0,
+    "engineVolume": 2,
     "horsePower": 159,
     "transmission": "Автомат",
     "drivetrain": "Передний привод",
@@ -694,6 +706,10 @@
       "images/cars/Hyundai-Sonata/Hyundai-Sonata-4.jpg",
       "images/cars/Hyundai-Sonata/Hyundai-Sonata-5.jpg",
       "images/cars/Hyundai-Sonata/Hyundai-Sonata-6.jpg"
+    ],
+    "tags": [
+      "Бизнес-класс",
+      "Стильный"
     ]
   },
   {
@@ -701,7 +717,7 @@
     "brand": "Kia",
     "model": "K5",
     "year": 2023,
-    "engineVolume": 2.0,
+    "engineVolume": 2,
     "horsePower": 160,
     "transmission": "Автомат",
     "drivetrain": "Передний привод",
@@ -723,6 +739,10 @@
       "images/cars/KIA-K5/KIA-K5-4.jpg",
       "images/cars/KIA-K5/KIA-K5-5.jpg",
       "images/cars/KIA-K5/KIA-K5-6.jpg"
+    ],
+    "tags": [
+      "Спортивный дизайн",
+      "Современный"
     ]
   },
   {
@@ -753,6 +773,10 @@
       "images/cars/Honda-Vezel/Honda-Vezel-4.jpg",
       "images/cars/Honda-Vezel/Honda-Vezel-5.jpg",
       "images/cars/Honda-Vezel/Honda-Vezel-6.jpg"
+    ],
+    "tags": [
+      "Надёжный",
+      "Малый расход"
     ]
   },
   {
@@ -784,6 +808,10 @@
       "images/cars/Volkswagen-Touran-L-280TSI-DSG/Volkswagen-Touran-L-280TSI-DSG-5.jpg",
       "images/cars/Volkswagen-Touran-L-280TSI-DSG/Volkswagen-Touran-L-280TSI-DSG-6.jpg",
       "images/cars/Volkswagen-Touran-L-280TSI-DSG/Volkswagen-Touran-L-280TSI-DSG-7.jpg"
+    ],
+    "tags": [
+      "Семейный",
+      "7 мест"
     ]
   },
   {
@@ -814,6 +842,10 @@
       "images/cars/Mini-Countryman-Cooper/Mini-Countryman-Cooper-4.jpg",
       "images/cars/Mini-Countryman-Cooper/Mini-Countryman-Cooper-5.jpg",
       "images/cars/Mini-Countryman-Cooper/Mini-Countryman-Cooper-6.jpg"
+    ],
+    "tags": [
+      "Британский стиль",
+      "Харизматичный"
     ]
   },
   {
@@ -849,6 +881,10 @@
       "images/cars/Hyundai-Tucson/Hyundai-Tucson-8.jpg",
       "images/cars/Hyundai-Tucson/Hyundai-Tucson-9.jpg",
       "images/cars/Hyundai-Tucson/Hyundai-Tucson-10.jpg"
+    ],
+    "tags": [
+      "Макс. комплектация",
+      "Хит продаж"
     ]
   },
   {
@@ -856,7 +892,7 @@
     "brand": "Audi",
     "model": "A5L",
     "year": 2026,
-    "engineVolume": 2.0,
+    "engineVolume": 2,
     "horsePower": 204,
     "transmission": "Робот",
     "drivetrain": "Полный привод",
@@ -881,6 +917,10 @@
       "images/cars/AUDI-A5L/AUDI-A5L-4.jpg",
       "images/cars/AUDI-A5L/AUDI-A5L-5.jpg",
       "images/cars/AUDI-A5L/AUDI-A5L-6.jpg"
+    ],
+    "tags": [
+      "Премиум люкс",
+      "Новинка"
     ]
   },
   {
@@ -888,7 +928,7 @@
     "brand": "Lexus",
     "model": "NX200",
     "year": 2025,
-    "engineVolume": 2.0,
+    "engineVolume": 2,
     "horsePower": 173,
     "transmission": "Вариатор",
     "drivetrain": "Передний привод",
@@ -913,6 +953,10 @@
       "images/cars/Lexus-NX200/Lexus-NX200-4.jpg",
       "images/cars/Lexus-NX200/Lexus-NX200-5.jpg",
       "images/cars/Lexus-NX200/Lexus-NX200-6.jpg"
+    ],
+    "tags": [
+      "Премиум",
+      "Высокая надёжность"
     ]
   },
   {
@@ -948,6 +992,10 @@
       "images/cars/Toyota-bZ3X/Toyota-bZ3X-7.jpg",
       "images/cars/Toyota-bZ3X/Toyota-bZ3X-8.jpg",
       "images/cars/Toyota-bZ3X/Toyota-bZ3X-9.jpg"
+    ],
+    "tags": [
+      "Электро",
+      "Выгодный заказ"
     ]
   },
   {
@@ -977,6 +1025,10 @@
       "images/cars/Benda-LFC-700-pro/Benda-LFC-700-pro-1.jpg",
       "images/cars/Benda-LFC-700-pro/Benda-LFC-700-pro-2.jpg",
       "images/cars/Benda-LFC-700-pro/Benda-LFC-700-pro-3.jpg"
+    ],
+    "tags": [
+      "Мотоцикл",
+      "Уникальный дизайн"
     ]
   },
   {
@@ -1011,6 +1063,10 @@
       "images/cars/Hyundai-Santa-Fe/Hyundai-Santa-Fe-6.jpg",
       "images/cars/Hyundai-Santa-Fe/Hyundai-Santa-Fe-7.jpg",
       "images/cars/Hyundai-Santa-Fe/Hyundai-Santa-Fe-8.jpg"
+    ],
+    "tags": [
+      "Calligraphy",
+      "Третий ряд сидений"
     ]
   },
   {
@@ -1043,6 +1099,10 @@
       "images/cars/Changan-UNI-S/Changan-UNI-S-4.jpg",
       "images/cars/Changan-UNI-S/Changan-UNI-S-5.jpg",
       "images/cars/Changan-UNI-S/Changan-UNI-S-6.jpg"
+    ],
+    "tags": [
+      "Современный",
+      "Полный привод"
     ]
   },
   {
@@ -1075,6 +1135,10 @@
       "images/cars/KIA-Sportage/KIA-Sportage-4.jpg",
       "images/cars/KIA-Sportage/KIA-Sportage-5.jpg",
       "images/cars/KIA-Sportage/KIA-Sportage-6.jpg"
+    ],
+    "tags": [
+      "Надежный кроссовер",
+      "Топовый дизайн"
     ]
   },
   {
@@ -1107,6 +1171,10 @@
       "images/cars/Geely-Galaxy-Starship-7/Geely-Galaxy-Starship-7-4.jpg",
       "images/cars/Geely-Galaxy-Starship-7/Geely-Galaxy-Starship-7-5.jpg",
       "images/cars/Geely-Galaxy-Starship-7/Geely-Galaxy-Starship-7-6.jpg"
+    ],
+    "tags": [
+      "Гибрид",
+      "Инновационный"
     ]
   },
   {
@@ -1114,7 +1182,7 @@
     "brand": "Toyota",
     "model": "Camry",
     "year": 2026,
-    "engineVolume": 2.0,
+    "engineVolume": 2,
     "horsePower": 173,
     "transmission": "Вариатор",
     "drivetrain": "Передний привод",
@@ -1137,6 +1205,10 @@
       "images/cars/Toyota-Camry/Toyota-Camry-2.jpg",
       "images/cars/Toyota-Camry/Toyota-Camry-3.jpg",
       "images/cars/Toyota-Camry/Toyota-Camry-4.jpg"
+    ],
+    "tags": [
+      "Легенда",
+      "Бизнес-класс"
     ]
   },
   {
@@ -1144,7 +1216,7 @@
     "brand": "Geely",
     "model": "Monjaro",
     "year": 2026,
-    "engineVolume": 2.0,
+    "engineVolume": 2,
     "horsePower": 272,
     "transmission": "Автомат",
     "drivetrain": "Полный привод",
@@ -1166,6 +1238,10 @@
       "images/cars/Geely-Monjaro/Geely-Monjaro-1.jpg",
       "images/cars/Geely-Monjaro/Geely-Monjaro-2.jpg",
       "images/cars/Geely-Monjaro/Geely-Monjaro-3.jpg"
+    ],
+    "tags": [
+      "Флагман",
+      "Макс. комплектация"
     ]
   },
   {
@@ -1196,6 +1272,10 @@
       "images/cars/Volkswagen-Sagitar-2022/Volkswagen-Sagitar-2022-3.jpg",
       "images/cars/Volkswagen-Sagitar-2022/Volkswagen-Sagitar-2022-4.jpg",
       "images/cars/Volkswagen-Sagitar-2022/Volkswagen-Sagitar-2022-5.jpg"
+    ],
+    "tags": [
+      "Заводской окрас",
+      "Турбо"
     ]
   },
   {
@@ -1203,7 +1283,7 @@
     "brand": "Kia",
     "model": "Morning",
     "year": 2023,
-    "engineVolume": 1.0,
+    "engineVolume": 1,
     "horsePower": 76,
     "transmission": "Автомат",
     "drivetrain": "Передний привод",
@@ -1227,6 +1307,10 @@
       "images/cars/KIA-MORNING/KIA-MORNING-4.jpg",
       "images/cars/KIA-MORNING/KIA-MORNING-5.jpg",
       "images/cars/KIA-MORNING/KIA-MORNING-6.jpg"
+    ],
+    "tags": [
+      "Для города",
+      "Компакт"
     ]
   },
   {
@@ -1262,6 +1346,10 @@
       "images/cars/Hyundai-Venue/Hyundai-Venue-8.jpg",
       "images/cars/Hyundai-Venue/Hyundai-Venue-9.jpg",
       "images/cars/Hyundai-Venue/Hyundai-Venue-10.jpg"
+    ],
+    "tags": [
+      "Компактный",
+      "В наличии"
     ]
   }
 ]
