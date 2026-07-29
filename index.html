@@ -112,19 +112,17 @@
     </div>
 
     <!-- Блок фильтров -->
-    <div class="mb-6 sm:mb-8 flex flex-col gap-4">
+    <div class="mb-6 sm:mb-8">
       <!-- 1. Фильтр по стране поставки -->
       <div role="tablist" aria-label="Направление поставки" class="flex flex-wrap gap-2">
         <button type="button" role="tab" aria-selected="true" data-filter="all" class="filter-tab rounded-full border px-4 py-2 text-sm font-medium transition-colors border-gold bg-gold text-black">Все страны</button>
         <button type="button" role="tab" aria-selected="false" data-filter="Китай" class="filter-tab rounded-full border px-4 py-2 text-sm font-medium transition-colors border-neutral-800 text-neutral-400 hover:border-neutral-600 hover:text-white">Китай</button>
         <button type="button" role="tab" aria-selected="false" data-filter="Корея" class="filter-tab rounded-full border px-4 py-2 text-sm font-medium transition-colors border-neutral-800 text-neutral-400 hover:border-neutral-600 hover:text-white">Корея</button>
         <button type="button" role="tab" aria-selected="false" data-filter="Бишкек" class="filter-tab rounded-full border px-4 py-2 text-sm font-medium transition-colors border-neutral-800 text-neutral-400 hover:border-neutral-600 hover:text-white">Бишкек</button>
-        <button type="button" role="tab" aria-selected="false" data-filter="Европа" class="filter-tab rounded-full border px-4 py-2 text-sm font-medium transition-colors border-neutral-800 text-neutral-400 hover:border-neutral-600 hover:text-white">Европа</button>
-        <button type="button" role="tab" aria-selected="false" data-filter="ОАЭ" class="filter-tab rounded-full border px-4 py-2 text-sm font-medium transition-colors border-neutral-800 text-neutral-400 hover:border-neutral-600 hover:text-white">ОАЭ</button>
       </div>
 
       <!-- 2. Фильтр по состоянию (Новые / БУ) -->
-      <div role="tablist" aria-label="Состояние автомобиля" class="flex flex-wrap gap-2 pt-4 border-t border-neutral-800/50">
+      <div role="tablist" aria-label="Состояние автомобиля" class="flex flex-wrap gap-2 pt-4 mt-4 border-t border-neutral-800/50">
         <button type="button" role="tab" aria-selected="true" data-condition="all" class="condition-tab rounded-full border px-4 py-2 text-sm font-medium transition-colors border-gold bg-gold text-black">Любое состояние</button>
         <button type="button" role="tab" aria-selected="false" data-condition="new" class="condition-tab rounded-full border px-4 py-2 text-sm font-medium transition-colors border-neutral-800 text-neutral-400 hover:border-neutral-600 hover:text-white">Новые авто</button>
         <button type="button" role="tab" aria-selected="false" data-condition="used" class="condition-tab rounded-full border px-4 py-2 text-sm font-medium transition-colors border-neutral-800 text-neutral-400 hover:border-neutral-600 hover:text-white">С пробегом</button>
