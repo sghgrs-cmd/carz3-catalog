@@ -347,7 +347,7 @@ function buildSpecsHTML(car) {
   // и модалки выглядели разного размера. Теперь строк всегда 6, а вместо
   // неизвестного значения — «—», так что структура одинаковая у всех карточек.
   const rows = [
-    { label: 'Двигатель', value: `${car.engineVolume.toFixed(1)} л / ${car.horsePower} л.с.` },
+    { label: 'Двигатель', value: `${typeof car.engineVolume === 'number' ? car.engineVolume.toFixed(1) + ' л' : car.engineVolume} / ${car.horsePower} л.с.` },
     { label: 'Коробка передач', value: car.transmission || '—' },
     { label: 'Привод', value: car.drivetrain || '—' },
     { label: 'Пробег', value: formatMileage(car.mileage) },
