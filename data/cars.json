@@ -1264,5 +1264,123 @@
       "Компактный",
       "В наличии"
     ]
+  },
+  {
+    "id": "zeekr-8x-2026",
+    "brand": "Zeekr",
+    "model": "8X",
+    "year": 2026,
+    "engineVolume": 2,
+    "horsePower": 898,
+    "transmission": "Автомат",
+    "drivetrain": "Полный привод",
+    "mileage": 0,
+    "price": 10890000,
+    "features": [
+      "Премиум гибрид",
+      "Сверхмощный"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "Michail2004",
+    "images": [
+      "images/cars/Zeekr-8X/Zeekr-8X-1.jpg",
+      "images/cars/Zeekr-8X/Zeekr-8X-2.jpg",
+      "images/cars/Zeekr-8X/Zeekr-8X-3.jpg",
+      "images/cars/Zeekr-8X/Zeekr-8X-4.jpg"
+    ],
+    "description": "2026 | 2.0 898 л.с. | гибрид | автомат | полный привод\\nНОВЫЙ В ЧЕРНОМ ЦВЕТЕ"
+  },
+  {
+    "id": "changan-qiyuan-q05-2025",
+    "brand": "Changan",
+    "model": "Qiyuan Q05",
+    "year": 2025,
+    "engineVolume": "Электро",
+    "horsePower": 163,
+    "transmission": "Автомат",
+    "drivetrain": "Передний привод",
+    "mileage": 8800,
+    "price": 2590000,
+    "features": [
+      "Электро",
+      "Множество опций"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "Michail2004",
+    "images": [
+      "images/cars/Changan-Qiyuan-Q05/Changan-Qiyuan-Q05-1.jpg",
+      "images/cars/Changan-Qiyuan-Q05/Changan-Qiyuan-Q05-2.jpg",
+      "images/cars/Changan-Qiyuan-Q05/Changan-Qiyuan-Q05-3.jpg",
+      "images/cars/Changan-Qiyuan-Q05/Changan-Qiyuan-Q05-4.jpg",
+      "images/cars/Changan-Qiyuan-Q05/Changan-Qiyuan-Q05-5.jpg",
+      "images/cars/Changan-Qiyuan-Q05/Changan-Qiyuan-Q05-6.jpg",
+      "images/cars/Changan-Qiyuan-Q05/Changan-Qiyuan-Q05-7.jpg",
+      "images/cars/Changan-Qiyuan-Q05/Changan-Qiyuan-Q05-8.jpg",
+      "images/cars/Changan-Qiyuan-Q05/Changan-Qiyuan-Q05-9.jpg"
+    ],
+    "description": "2025 | электро 163 л.с. | 2WD | Заводской окрас, запас хода 215 км, пробег 8.8 тыс км.\\n\\nКомплектация:\\n- Система предупреждения о сходе с полосы и автоматического экстренного торможения (AEB)\\n- Режим охраны Sentry Mode\\n- Камера кругового обзора 360° и контроль слепых зон\\n- Адаптивный круиз-контроль (L2), удержание и центрирование в полосе\\n- Электропривод багажника, бесключевой доступ\\n- Кожаный салон, электрорегулировка, подогрев, вентиляция и массаж передних сидений\\n- Автоматический климат-контроль"
+  },
+  {
+    "id": "skoda-superb-2021",
+    "brand": "Skoda",
+    "model": "Superb",
+    "year": 2021,
+    "engineVolume": 1.4,
+    "horsePower": 150,
+    "transmission": "Робот",
+    "drivetrain": "Передний привод",
+    "mileage": 34800,
+    "price": 2290000,
+    "features": [
+      "Комфорт-класс",
+      "Богатая комплектация"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "Michail2004",
+    "images": [
+      "images/cars/Skoda-Superb/Skoda-Superb-1.jpg",
+      "images/cars/Skoda-Superb/Skoda-Superb-2.jpg",
+      "images/cars/Skoda-Superb/Skoda-Superb-3.jpg",
+      "images/cars/Skoda-Superb/Skoda-Superb-4.jpg",
+      "images/cars/Skoda-Superb/Skoda-Superb-5.jpg",
+      "images/cars/Skoda-Superb/Skoda-Superb-6.jpg",
+      "images/cars/Skoda-Superb/Skoda-Superb-7.jpg",
+      "images/cars/Skoda-Superb/Skoda-Superb-8.jpg",
+      "images/cars/Skoda-Superb/Skoda-Superb-9.jpg"
+    ],
+    "description": "2021 | 1.4 бензин 150 л.с. | робот | 2WD\\nПробег: 34,8 тыс км\\n\\nКомплектация TSI280 DSG Comfort:\\n- Система контроля усталости водителя и Auto Hold\\n- Передние и задние парктроники, камера заднего вида\\n- Круиз-контроль, система автоматической парковки\\n- Запуск двигателя кнопкой (Start/Stop) и бесключевой доступ\\n- Электрический люк\\n- Электрорегулировка и подогрев наружных зеркал\\n- Многофункциональное рулевое колесо и кожаный салон\\n- Электрорегулировка водительского сиденья и подогрев передних сидений\\n- Электропривод крышки багажника"
+  },
+  {
+    "id": "toyota-yaris-l-2022",
+    "brand": "Toyota",
+    "model": "YARiS L",
+    "year": 2022,
+    "engineVolume": 1.5,
+    "horsePower": 111,
+    "transmission": "Вариатор (CVT)",
+    "drivetrain": "Передний привод",
+    "mileage": 41000,
+    "price": 1690000,
+    "features": [
+      "Надёжный",
+      "Luxury PLUS"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "Michail2004",
+    "images": [
+      "images/cars/Toyota-YARiS-L/Toyota-YARiS-L-1.jpg",
+      "images/cars/Toyota-YARiS-L/Toyota-YARiS-L-2.jpg",
+      "images/cars/Toyota-YARiS-L/Toyota-YARiS-L-3.jpg",
+      "images/cars/Toyota-YARiS-L/Toyota-YARiS-L-4.jpg",
+      "images/cars/Toyota-YARiS-L/Toyota-YARiS-L-5.jpg",
+      "images/cars/Toyota-YARiS-L/Toyota-YARiS-L-6.jpg",
+      "images/cars/Toyota-YARiS-L/Toyota-YARiS-L-7.jpg",
+      "images/cars/Toyota-YARiS-L/Toyota-YARiS-L-8.jpg"
+    ],
+    "description": "2022 | 1.5 111 л.с. | CVT | 2WD\\nКомплектация: Luxury PLUS Edition\\nЗаводской окрас\\nПробег: 41 000 км\\n\\nСтоимость авто в юанях: 78 800"
   }
 ]
