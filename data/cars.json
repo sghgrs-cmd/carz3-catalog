@@ -1382,5 +1382,34 @@
       "images/cars/Toyota-YARiS-L/Toyota-YARiS-L-8.jpg"
     ],
     "description": "2022 | 1.5 111 л.с. | CVT | 2WD\\nКомплектация: Luxury PLUS Edition\\nЗаводской окрас\\nПробег: 41 000 км\\n\\nСтоимость авто в юанях: 78 800"
+  },
+  {
+    "id": "bmw-x1-2023",
+    "brand": "BMW",
+    "model": "X1",
+    "year": 2023,
+    "engineVolume": 2.0,
+    "horsePower": 140,
+    "transmission": "Автомат",
+    "drivetrain": "Передний привод",
+    "mileage": 40000,
+    "price": 3190000,
+    "features": [
+      "Немецкое качество",
+      "Городской премиум"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "Michail2004",
+    "images": [
+      "images/cars/BMW-x1/BMW-x1-1.jpg",
+      "images/cars/BMW-x1/BMW-x1-2.jpg",
+      "images/cars/BMW-x1/BMW-x1-3.jpg",
+      "images/cars/BMW-x1/BMW-x1-4.jpg",
+      "images/cars/BMW-x1/BMW-x1-5.jpg",
+      "images/cars/BMW-x1/BMW-x1-6.jpg",
+      "images/cars/BMW-x1/BMW-x1-7.jpg"
+    ],
+    "description": "BMW X1 2023 года — компактный премиальный кроссовер с классическим немецким характером. Двигатель 2.0 л мощностью 140 л.с. в связке с автоматической трансмиссией обеспечивает уверенную динамику в городском потоке и за его пределами. Стильный экстерьер, высококачественный интерьер и надёжная инженерия BMW — всё это в одном автомобиле. Цена 3 190 000 ₽ до Москвы."
   }
 ]
