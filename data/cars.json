@@ -1411,5 +1411,34 @@
       "images/cars/BMW-x1/BMW-x1-7.jpg"
     ],
     "description": "BMW X1 2023 года — компактный премиальный кроссовер с классическим немецким характером. Двигатель 2.0 л мощностью 140 л.с. в связке с автоматической трансмиссией обеспечивает уверенную динамику в городском потоке и за его пределами. Стильный экстерьер, высококачественный интерьер и надёжная инженерия BMW — всё это в одном автомобиле. Цена 3 190 000 ₽ до Москвы."
+  },
+  {
+    "id": "skoda-kamiq-2023",
+    "brand": "Skoda",
+    "model": "Kamiq",
+    "year": 2023,
+    "engineVolume": 1.5,
+    "horsePower": 109,
+    "transmission": "Автомат",
+    "drivetrain": "Передний привод",
+    "mileage": 12000,
+    "price": 2250000,
+    "features": [
+      "Городской кроссовер",
+      "Практичный"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "Michail2004",
+    "images": [
+      "images/cars/Skoda-Kamiq/Skoda-Kamiq-1.jpg",
+      "images/cars/Skoda-Kamiq/Skoda-Kamiq-2.jpg",
+      "images/cars/Skoda-Kamiq/Skoda-Kamiq-3.jpg",
+      "images/cars/Skoda-Kamiq/Skoda-Kamiq-4.jpg",
+      "images/cars/Skoda-Kamiq/Skoda-Kamiq-5.jpg",
+      "images/cars/Skoda-Kamiq/Skoda-Kamiq-6.jpg",
+      "images/cars/Skoda-Kamiq/Skoda-Kamiq-7.jpg"
+    ],
+    "description": "Компактный кроссовер из Китая с пробегом. Заводской окрас кузова, отличное состояние."
   }
 ]
