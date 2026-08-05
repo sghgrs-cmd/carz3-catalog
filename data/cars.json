@@ -1467,5 +1467,34 @@
       "images/cars/Toyota-Corolla/Toyota-Corolla-5.jpg"
     ],
     "description": "Toyota Corolla с пробегом из Китая. Заводской окрас кузова, проверенная надёжность."
+  },
+  {
+    "id": "vw-golf-2023",
+    "brand": "Volkswagen",
+    "model": "Golf",
+    "year": 2023,
+    "engineVolume": 1.4,
+    "horsePower": 149,
+    "transmission": "Робот",
+    "drivetrain": "Передний привод",
+    "mileage": 36000,
+    "price": 2390000,
+    "features": [
+      "Культовый хэтчбек",
+      "Отличная динамика"
+    ],
+    "location": "Китай",
+    "status": "Под заказ",
+    "manager": "Michail2004",
+    "images": [
+      "images/cars/VW-Golf/VW-Golf-1.jpg",
+      "images/cars/VW-Golf/VW-Golf-2.jpg",
+      "images/cars/VW-Golf/VW-Golf-3.jpg",
+      "images/cars/VW-Golf/VW-Golf-4.jpg",
+      "images/cars/VW-Golf/VW-Golf-5.jpg",
+      "images/cars/VW-Golf/VW-Golf-6.jpg",
+      "images/cars/VW-Golf/VW-Golf-7.jpg"
+    ],
+    "description": "VW Golf из Китая с пробегом 36 000 км. Отличное состояние и легендарная управляемость."
   }
 ]
